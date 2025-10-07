@@ -1,0 +1,22 @@
+name: Build and Run ESGApp
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v3
+
+      - name: Build da aplicação com Docker Compose
+        run: docker-compose up --build -d
+
+      - name: Testar se a API está respondendo
+        run: |
+          sleep 10
+          curl -f http://localhost:8080/weatherforecast || exit 1
