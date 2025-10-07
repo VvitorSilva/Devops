@@ -1,0 +1,15 @@
+C:\Atividade desafio Devops\esgapp\out\esgapp.exe
+C:\Atividade desafio Devops\esgapp\out\appsettings.Development.json
+C:\Atividade desafio Devops\esgapp\out\appsettings.json
+C:\Atividade desafio Devops\esgapp\out\esgapp.dll
+C:\Atividade desafio Devops\esgapp\out\esgapp.deps.json
+C:\Atividade desafio Devops\esgapp\out\esgapp.runtimeconfig.json
+C:\Atividade desafio Devops\esgapp\out\esgapp.pdb
+C:\Atividade desafio Devops\esgapp\out\DnsClient.dll
+C:\Atividade desafio Devops\esgapp\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Atividade desafio Devops\esgapp\out\Microsoft.OpenApi.dll
+C:\Atividade desafio Devops\esgapp\out\MongoDB.Bson.dll
+C:\Atividade desafio Devops\esgapp\out\MongoDB.Driver.dll
+C:\Atividade desafio Devops\esgapp\out\SharpCompress.dll
+C:\Atividade desafio Devops\esgapp\out\Snappier.dll
+C:\Atividade desafio Devops\esgapp\out\ZstdSharp.dll
